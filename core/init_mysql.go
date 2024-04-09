@@ -8,7 +8,7 @@ import (
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
-	"grs-server/global"
+	"grs-server/internal/global"
 	"time"
 )
 

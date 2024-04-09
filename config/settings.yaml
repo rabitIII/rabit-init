@@ -1,4 +1,4 @@
-system:
+server:
   ip: ""
   port: 8080
   env: "dev"

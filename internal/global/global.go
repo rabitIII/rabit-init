@@ -2,10 +2,10 @@ package global
 
 import (
 	"gorm.io/gorm"
-	"grs-server/config"
+	"grs-server/internal/conf"
 )
 
 var (
-	Config *config.Config
+	Config *conf.Config
 	DB     *gorm.DB
 )
